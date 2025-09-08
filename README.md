@@ -15,7 +15,7 @@ The app provides **detection confidence/accuracy**, helping users see **how cert
 
 ## **APP DEMO**
 
-
+![App Screenshot](WebApp1.png)
 ![App Screenshot](WebApp2.png)
 
 
