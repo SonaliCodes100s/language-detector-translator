@@ -8,6 +8,11 @@
 ## **Overview**
 A **web-based NLP application** built using **Python and Streamlit** to detect the language of text and translate it into multiple languages with optional **text-to-speech (TTS) audio output**. Supports **typed text** and **file uploads** (`txt`, `pdf`, `docx`).  
 
+## 🌐 Multi-Language Detection & Translation
+
+This project goes beyond regular language detection and translation apps by allowing users to **translate text into up to three languages at the same time**.  
+
+
 The app provides **detection confidence/accuracy**, helping users see **how certain the system is about the detected language**.
 
 ---
